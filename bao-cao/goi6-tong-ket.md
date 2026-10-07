@@ -10,7 +10,7 @@
 
 ## 2. Vòng 1 và vòng 3 so với nhau
 
-<!-- điền: số liệu của chính nhóm: số lớp phải sửa, số dòng trùng lặp (docs/trung-lap.md), thời gian làm một thay đổi -->
+<!-- điền: số liệu của chính nhóm: số lớp phải sửa, số dòng trùng lặp (docs/trung-lap.md), thời gian làm từng phiếu thay đổi -->
 
 ### Ba phiếu thay đổi
 

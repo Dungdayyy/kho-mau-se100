@@ -15,7 +15,7 @@ Bộ gồm bốn agent viết dưới dạng tệp chỉ dẫn Markdown. Nhóm d
 | 3 | `03_luyen_van_dap.md` | Luyện trả lời câu hỏi về chính phần việc của mình trước buổi báo cáo cuối kỳ | Không |
 | 4 | `04_gia_su.md` | Năm câu áp dụng sau mỗi buổi học; đóng vai khách hàng chị Hạnh; hỏi lại ví dụ biên của một luật, không viết test hộ; soát bản giao việc sáu dòng, không làm việc hộ | Không |
 
-**Mã đợt** do giảng viên công bố đầu tuần 7 (đợt 1), đầu tuần 9 (đợt 2) và đầu tuần 11 (đợt 3). Trong tuần đó nhóm chạy agent 1. Phiếu đợt 1 nộp cùng Gói 4, đợt 2 cùng Gói 5, đợt 3 cùng Gói 6, mỗi lần kèm log phiên và một ADR xử lý phiếu.
+**Mã đợt** do giảng viên công bố đầu tuần 7 (đợt 1), đầu tuần 9 (đợt 2) và đầu tuần 11 (đợt 3); năm nay thứ Hai 19/10, 02/11, 16/11. Trong tuần đó nhóm chạy agent 1. Phiếu đợt 1 nộp cùng Gói 4, đợt 2 cùng Gói 5, đợt 3 cùng Gói 6, mỗi lần kèm log phiên và một ADR xử lý phiếu.
 
 **Nộp bài.** Kết quả của agent 1 được đưa vào kho: phiếu tại `phieu-thay-doi/dot<k>_N<xx>_TD-xx.md`, log phiên tại `log-tac-tu/phieu-dot<k>.md`, phần xử lý trong `adr/NNNN-xu-ly-TD-xx.md`, hạng mục nhãn `phieu-thay-doi` trên tab Issues, PR hiện thực có `Đóng #`. Nhóm nộp gói bằng cách gắn và đẩy thẻ (`goi-2`…`goi-6`, `review-cheo`). Cấu trúc kho, quy trình một PR và cách chạy kiểm gói xem `README.md` ở gốc kho.
 

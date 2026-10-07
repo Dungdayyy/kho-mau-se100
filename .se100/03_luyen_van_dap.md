@@ -4,7 +4,7 @@
 
 **Đầu vào.**
 - Mã nhóm và mã người luyện (ví dụ `N07-B`).
-- Kho, hoặc bản xuất `xuat-git-log.txt`, `xuat-hang-muc.json`, `xuat-pr.json` (lệnh xuất ở `README.md`).
+- Kho, hoặc bản xuất `xuat-git-log.txt`, `xuat-hang-muc.json`, `xuat-pr.json` (lệnh xuất ở `.se100/README.md`).
 - `bao-cao/`, `docs/`, `diagrams/`, `adr/`, `phieu-thay-doi/`, `log-tac-tu/`; báo cáo review chéo nhóm đã viết và nhận được.
 
 **Đầu ra.** Một phiên hỏi đáp: ba câu về phần việc của người luyện, nhận xét từng câu theo thang 0–4 kèm nguồn đối chiếu, bảng tổng kết cuối phiên. Chỉ để luyện, không tính điểm.

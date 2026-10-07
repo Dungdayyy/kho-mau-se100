@@ -1,17 +1,17 @@
 # Agent 1 — Mô phỏng thay đổi (bắt buộc)
 
-**Dùng khi nào.** Trong tuần có mã đợt: đợt 1 tuần 7, đợt 2 tuần 9, đợt 3 tuần 11. Mỗi nhóm chạy một lần mỗi đợt.
+**Dùng khi nào.** Trong tuần có mã đợt: đợt 1 tuần 7, đợt 2 tuần 9, đợt 3 tuần 11 (năm nay 19–25/10, 02–08/11, 16–22/11). Mỗi nhóm chạy một lần mỗi đợt.
 
 **Đầu vào cần chuẩn bị.**
 - Mã nhóm (`N01`…`N20`), số đợt (1, 2 hoặc 3), mã đợt do giảng viên công bố, mã người chạy (ví dụ `N07-C`).
 - Tệp `01a_danh_muc_phieu.md` (cùng thư mục với tệp này).
-- Kho của nhóm trên nhánh chính đã cập nhật. Ở chế độ hội thoại thì tải lên bản xuất lịch sử commit và danh sách tệp (lệnh xuất ở `README.md`), cùng các tệp: `README.md`, `docs/yeu-cau.md`, `docs/dac-ta-*.md`, mọi tệp trong `diagrams/` và `adr/`, mã trong `src/` (ít nhất các tệp mô hình, route, dịch vụ), tệp khai báo phụ thuộc (`package.json`, `requirements.txt`…), tệp biến môi trường mẫu nếu có (`.env.example`).
+- Kho của nhóm trên nhánh chính đã cập nhật. Ở chế độ hội thoại thì tải lên bản xuất lịch sử commit và danh sách tệp (lệnh xuất ở `.se100/README.md`), cùng các tệp: `README.md`, `docs/yeu-cau.md`, `docs/dac-ta-*.md`, mọi tệp trong `diagrams/` và `adr/`, mã trong `src/` (ít nhất các tệp mô hình, route, dịch vụ), tệp khai báo phụ thuộc (`package.json`, `requirements.txt`…), tệp biến môi trường mẫu nếu có (`.env.example`).
 - Hạng mục và PR (tab Issues): đọc bằng `gh`, hoặc bản xuất `xuat-hang-muc.json`, `xuat-pr.json`.
 
 **Đầu ra.**
 - Phiếu thay đổi: `phieu-thay-doi/dot<k>_N<xx>_<mã phiếu>.md`, ví dụ `phieu-thay-doi/dot1_N07_TD-02.md`.
 - Log phiên: `log-tac-tu/phieu-dot<k>.md`, ví dụ `log-tac-tu/phieu-dot1.md`.
-- Cả hai đưa vào nhánh chính qua một PR tài liệu: dòng ba thông tin ghi công cụ agent đã chạy, không cần `Đóng #`, log phiên thay cho `log-tac-tu/PR-<số>.md`. Nộp cùng gói kế tiếp: đợt 1 với Gói 4, đợt 2 với Gói 5, đợt 3 với Gói 6. Nhóm không sửa phiếu đã sinh.
+- Cả hai đưa vào nhánh chính qua một PR tài liệu: dòng ba thông tin ghi công cụ agent đã chạy, không cần `Đóng #`, log phiên thay cho `log-tac-tu/PR-<số>.md`. Nộp cùng gói của đợt: đợt 1 với Gói 4, đợt 2 với Gói 5, đợt 3 với Gói 6. Nhóm không sửa phiếu đã sinh.
 
 **Sau khi có phiếu, nhóm phải làm.**
 1. Tạo một hạng mục trên tab Issues theo mẫu Hạng mục, nhãn `phieu-thay-doi`, ô Truy vết ghi mã phiếu. Given–When–Then dùng đúng các con số trong tham số của phiếu.
@@ -22,7 +22,7 @@
    4. cái phải đánh đổi, sơ đồ nào phải cập nhật;
    5. kết quả thực tế: số lớp đã sửa thật so với bảng tác động, PR hiện thực.
 
-   Phần 1–4 nộp cùng gói kế tiếp và merge trước PR hiện thực. Phần 5 điền ở gói sau: đợt 1 ở Gói 5, đợt 2 ở Gói 6; đợt 3 điền ngay ở Gói 6.
+   Phần 1–4 nộp cùng phiếu (đợt 1 với Gói 4, đợt 2 với Gói 5, đợt 3 với Gói 6) và merge trước PR hiện thực. Phần 5 điền ở gói sau: đợt 1 ở Gói 5, đợt 2 ở Gói 6; đợt 3 điền ngay ở Gói 6.
 3. Hiện thực bằng PR có `Đóng #<số hạng mục>`; agent viết mã. Phụ trách yêu cầu nghiệm thu theo Given–When–Then rồi đóng hạng mục. Cả ba phiếu phải làm thật trước hạn Gói 6.
 
 Không chạy agent trong tuần có mã đợt thì phần phiếu của gói tương ứng ở mức 0.
@@ -209,7 +209,7 @@ Ghi phiếu theo đúng mẫu sau.
 <chép từ danh mục, thay chỗ may đo bằng tên trong kho>
 
 ## Gói nộp
-<Gói 4, hạn cuối tuần 9 | Gói 5, hạn cuối tuần 11 | Gói 6, hạn Chủ nhật tuần 14> · nộp kèm: tệp phiếu này, log phiên, ADR phần 1–4.
+<Gói 4, hạn cuối tuần 9 (năm nay CN 08/11) | Gói 5, hạn cuối tuần 11 (năm nay CN 22/11) | Gói 6, hạn Chủ nhật tuần 14 (năm nay 13/12)> · nộp kèm: tệp phiếu này, log phiên, ADR phần 1–4.
 
 ## Chỗ không đủ dữ liệu, kho thiếu hoặc kho đã có
 - <liệt kê, hoặc ghi "không có">

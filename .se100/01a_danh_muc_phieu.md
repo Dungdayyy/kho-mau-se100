@@ -14,9 +14,9 @@ Chữ trong ngoặc nhọn là chỗ may đo theo kho của nhóm, lấy từ h�
 
 | Đợt | Mã đợt công bố | Phiếu | Kiến thức cần | Nộp cùng |
 |---|---|---|---|---|
-| 1 | Đầu tuần 7 | TD-01 · TD-02 · TD-03 · TD-04 · TD-05 | Buổi 5–9: yêu cầu, use case, sequence, mô hình miền, trạng thái, bảng tác động | Gói 4 (cuối tuần 9) |
-| 2 | Đầu tuần 9 | TD-06 · TD-07 · TD-08 · TD-09 · TD-10 · TD-11 | Thêm buổi 10–11: thiết kế dữ liệu, thiết kế kiến trúc | Gói 5 (cuối tuần 11) |
-| 3 | Đầu tuần 11 | TD-12 · TD-13 · TD-14 · TD-15 · TD-16 | Thêm buổi 12–14: giao diện, triển khai, CI/CD | Gói 6 (Chủ nhật tuần 14) |
+| 1 | Đầu tuần 7 (năm nay 19/10) | TD-01 · TD-02 · TD-03 · TD-04 · TD-05 | Buổi 5–9: yêu cầu, use case, sequence, mô hình miền, trạng thái, bảng tác động | Gói 4 (cuối tuần 9, năm nay 08/11) |
+| 2 | Đầu tuần 9 (năm nay 02/11) | TD-06 · TD-07 · TD-08 · TD-09 · TD-10 · TD-11 | Thêm buổi 10–11: thiết kế dữ liệu, thiết kế kiến trúc | Gói 5 (cuối tuần 11, năm nay 22/11) |
+| 3 | Đầu tuần 11 (năm nay 16/11) | TD-12 · TD-13 · TD-14 · TD-15 · TD-16 | Thêm buổi 12–14: giao diện, triển khai, CI/CD | Gói 6 (Chủ nhật tuần 14, năm nay 13/12) |
 
 ## Ma trận vị trí
 

@@ -1,6 +1,7 @@
 name: kiem-pr
 
-# Kiểm mô tả PR: dòng ba thông tin, mã người, người review khác người điều khiển, log agent.
+# Kiểm mô tả PR: dòng ba thông tin, mã người, người review khác người điều khiển, đúng một dòng Đóng #
+# (trừ PR tài liệu và PR từ nhánh kho-mau), log agent.
 # Cảnh báo (không chặn) khi PR sửa hoặc xoá test đã có trong tests/ mà chưa ghi vì sao.
 # Không sửa tệp này.
 

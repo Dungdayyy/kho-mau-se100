@@ -2,7 +2,7 @@
 
 <!-- điền: mã nhóm viết, mã nhóm được review, thời điểm đọc (sau Gói 3 và sau Gói 4) -->
 
-<!-- Nhận xét về mã và tài liệu, không nhận xét về người. Dùng mã thành viên của cả hai nhóm. Viết xong mục nào thì xoá dòng giữ chỗ "điền" của mục đó. -->
+<!-- Tối đa 2 trang. Nhận xét về mã và tài liệu, không nhận xét về người. Dùng mã thành viên của cả hai nhóm. Viết xong mục nào thì xoá dòng giữ chỗ "điền" của mục đó. -->
 
 ## 1. Phạm vi đã đọc
 

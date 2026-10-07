@@ -1,6 +1,6 @@
 # Agent 3 — Luyện vấn đáp
 
-**Dùng khi nào.** Từ sau Gói 5, nhất là tuần 14–15, giữa hạn Gói 6 và buổi báo cáo cuối kỳ. Mỗi thành viên luyện riêng phần việc của mình. Không bắt buộc.
+**Dùng khi nào.** Từ sau Gói 5, nhất là giữa hạn Gói 6 (13/12) và buổi báo cáo cuối kỳ (28–31/12). Mỗi thành viên luyện riêng phần việc của mình. Không bắt buộc.
 
 **Đầu vào.**
 - Mã nhóm và mã người luyện (ví dụ `N07-B`).

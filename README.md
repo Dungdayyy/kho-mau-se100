@@ -35,7 +35,7 @@ THANH-VIEN.md     do hệ thống đăng ký ghi (không sửa)
 
 Bốn thứ dưới đây cập nhật ngay trong lúc làm, không soạn lại vào cuối gói. Lúc hạn, giảng viên lấy cả bốn cùng bài nộp.
 
-1. **Bảng công việc:** tab **Issues** của kho, mỗi việc một hạng mục theo mẫu **Hạng mục**, gắn milestone `Gói 3`, `Gói 4`, `Gói 5` hoặc `Gói 6`. Bắt buộc từ Gói 3.
+1. **Bảng công việc:** tab **Issues** của kho, mỗi việc một hạng mục theo mẫu **Hạng mục**, gắn milestone `Gói 3`, `Gói 4`, `Gói 5` hoặc `Gói 6`. Được chấm từ Gói 3; `kiem-pr` đòi dòng `Đóng #` ngay từ PR đầu tiên (trừ PR tài liệu và PR từ nhánh `kho-mau`).
 2. **Kho mã và log agent:** mỗi PR theo mẫu; PR dùng agent kèm `log-tac-tu/PR-<số>.md`.
 3. **Sơ đồ** trong `diagrams/`, khớp mã (`scripts/kiem_moc.py` kiểm).
 4. **Sổ quyết định thiết kế:** thư mục `adr/`, kể cả ADR xử lý phiếu thay đổi.

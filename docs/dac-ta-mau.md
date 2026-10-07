@@ -1,5 +1,7 @@
 # Đặc tả use case — UC-__ [Tên use case]
 
+Phụ trách: N07-_
+
 *Gói 3. Sao chép tệp này thành `docs/dac-ta-UC-01.md`, `dac-ta-UC-02.md`, `dac-ta-UC-03.md`. Kiểm gói đếm cho đủ 3 tệp.*
 
 | | |

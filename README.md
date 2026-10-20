@@ -5,6 +5,7 @@
 ## URL
 
 - Bản chạy: https://
+- Hạ tầng: <nơi chạy> · <tay hoặc tự động> · <mã thành viên giữ tài khoản, ví dụ N07-A>
 - Pipeline: xem tab Actions
 
 ## Thành viên
